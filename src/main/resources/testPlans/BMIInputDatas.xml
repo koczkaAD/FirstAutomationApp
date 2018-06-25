@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<BMIS>
+    <BMI>
+        <gender>female</gender>
+        <age>10</age>
+        <height>150</height>
+        <weight>20</weight>
+    </BMI>
+    <BMI>
+        <gender>female</gender>
+        <age>18</age>
+        <height>168</height>
+        <weight>77</weight>
+    </BMI>
+    <BMI>
+        <gender>male</gender>
+        <age>13</age>
+        <height>140</height>
+        <weight>36</weight>
+    </BMI>
+    <BMI>
+        <gender>male</gender>
+        <age>30</age>
+        <height>180</height>
+        <weight>90</weight>
+    </BMI>
+</BMIS>
